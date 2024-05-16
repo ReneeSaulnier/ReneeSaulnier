@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Renee Saulnier, a passionate computer science student at the UofL.
+I'm Renee Saulnier, a passionate computer science student at UofL.
 
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning about autonomous driving

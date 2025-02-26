@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Renee Saulnier, a passionate computer science student at UofL.
+I'm Renee Saulnier, a computer science student at UofL.
 
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning about skin cancer detection

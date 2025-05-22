@@ -10,7 +10,7 @@ I'm Renee Saulnier, a computer science student at UofL.
 ## Skills 🚀
 
 - **Languages**: Python, C#, Java
-- **Frameworks/Libraries**: React, PyTorch, Scikit-learn, Pandas
+- **Frameworks/Libraries**: React, ASP.NET, PyTorch, Scikit-learn, Pandas
 - **Databases**: MySQL, Oracle, MS SQL Server
 - **Tools**: Azure, Git, VSCode, GitHub, Docker
 

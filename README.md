@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello World! 👋
 
 I'm Renee Saulnier, a computer science student at UofL.
 
